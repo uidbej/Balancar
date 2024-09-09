@@ -6,7 +6,7 @@
 - 使用互补滤波器，融合 mpu6050 的陀螺仪和加速度计，简便有效地得到 IMU 姿态估计
 - 使用定时器中断，及时反馈编码器的转速，得到里程计速度估计
 - 对姿态环和速度环进行 PID 闭环控制，通过手机端实时调参
-- 
+
 <div align="center">
   <img src=Docs/Images/小车酷照.jpg width="30%"/>
 </div>
@@ -43,8 +43,8 @@
 
 ## 演示视频
 
-<video src=Docs/Videos/Balancar_video_1.mp4></video>
-
+- Part1 : Docs/Videos/Balancar_video_1.mp4
+- Part2 : Docs/Videos/Balancar_video_2.mp4
 
 
 
